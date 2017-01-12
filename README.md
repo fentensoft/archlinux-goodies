@@ -5,7 +5,7 @@
 * aria2：强大的下载工具，支持多协议
 * [webui-aria2](https://github.com/ziahamza/webui-aria2)： aira2网页界面，功能丰富
 * blueman：蓝牙管理器
-* [infinality](https://bohoomil.com/)：字体渲染优化，提供Archlinux的repo。[Wiki](https://wiki.archlinux.org/index.php/Infinality)
+* ~~[infinality](https://bohoomil.com/)：字体渲染优化，提供Archlinux的repo。[Wiki](https://wiki.archlinux.org/index.php/Infinality)~~
 * compton：窗口过渡管理器
 * [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat)：使用[electron](https://github.com/electron/electron)编写的微信客户端，AUR包：electronic-wechat-git
 * fcitx：国人开发的中文输入法，支持五笔拼音（这对我很重要）
@@ -20,6 +20,7 @@
 * [moka-icon-theme](https://github.com/snwh/moka-icon-theme)：漂亮的GTK图标包，AUR包：moka-icon-theme-git
 * [musicbox](https://github.com/darknessomi/musicbox)：网易云音乐的命令行版本，又是Geek最爱，Archlinuxcn的Repo收录了该软件包
 * [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)：添加Powerline、Glyph Icon等符号的常用字体包
+* psd：profile sync daemon，将浏览器缓存文件移动到tmpfs中以减少物理磁盘的读写，同时提高运行速度，[Wiki](https://wiki.archlinux.org/index.php/Profile-sync-daemon)
 * pdnsd：本地DNS服务器，通过强制修改DNS记录的TTL值（一周甚至更长），加速DNS查询
 * pacaur：AUR包管理，替代yaourt，Archlinuxcn的repo中有收录
 * [powerpill](https://wiki.archlinux.org/index.php/powerpill)：实现了pacman的多线程下载，后端使用aria2
@@ -38,4 +39,4 @@
 
 * [Archlinuxcn](https://www.archlinuxcn.org/archlinux-cn-repo-and-mirror/)：Archlinux中文社区仓库
 * [repo-ck](http://repo-ck.com/)：CK内核仓库
-* [infinality](https://bohoomil.com/#)：infinality仓库
+* ~~[infinality](https://bohoomil.com/#)：infinality仓库~~
