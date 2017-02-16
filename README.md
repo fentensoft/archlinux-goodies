@@ -10,6 +10,7 @@
 * [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat)：使用[electron](https://github.com/electron/electron)编写的微信客户端，AUR包：electronic-wechat-git
 * fcitx：国人开发的中文输入法，支持五笔拼音（这对我很重要）
 * [arc-theme](https://github.com/horst3180/arc-theme)：个人比较喜欢的GTK主题，AUR包：gtk-theme-arc-git
+* evince: 轻便快捷的PDF阅读器
 * i3-wm：平铺式窗口管理器，小巧精致，Geek最爱
 * [i3-lock-fancy](https://github.com/meskarune/i3lock-fancy)：美化版i3锁屏，[截图](https://raw.githubusercontent.com/meskarune/i3lock-fancy/master/screenshot.png)
 * lightdm：小巧的登录管理器
@@ -24,6 +25,7 @@
 * pdnsd：本地DNS服务器，通过强制修改DNS记录的TTL值（一周甚至更长），加速DNS查询
 * pacaur：AUR包管理，替代yaourt，Archlinuxcn的repo中有收录
 * parcellite: 剪贴板管理器，可以保存历史
+* poppler-data: 让PDF阅读器支持UTF-8
 * [powerpill](https://wiki.archlinux.org/index.php/powerpill)：实现了pacman的多线程下载，后端使用aria2
 * [remarkable](https://github.com/jonschlinkert/remarkable)：好用的Markdown编辑器
 * [rofi](https://davedavenport.github.io/rofi/)：dmenu的替代者，可以通过脚本实现自定义菜单
