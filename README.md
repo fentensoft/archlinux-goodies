@@ -23,6 +23,7 @@
 * psd：profile sync daemon，将浏览器缓存文件移动到tmpfs中以减少物理磁盘的读写，同时提高运行速度，[Wiki](https://wiki.archlinux.org/index.php/Profile-sync-daemon)
 * pdnsd：本地DNS服务器，通过强制修改DNS记录的TTL值（一周甚至更长），加速DNS查询
 * pacaur：AUR包管理，替代yaourt，Archlinuxcn的repo中有收录
+* parcellite: 剪贴板管理器，可以保存历史
 * [powerpill](https://wiki.archlinux.org/index.php/powerpill)：实现了pacman的多线程下载，后端使用aria2
 * [remarkable](https://github.com/jonschlinkert/remarkable)：好用的Markdown编辑器
 * [rofi](https://davedavenport.github.io/rofi/)：dmenu的替代者，可以通过脚本实现自定义菜单
